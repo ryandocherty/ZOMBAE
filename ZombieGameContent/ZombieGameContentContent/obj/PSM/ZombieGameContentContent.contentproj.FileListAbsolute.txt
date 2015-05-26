@@ -1,0 +1,4 @@
+C:\Users\Ryan\documents\visual studio 2013\Projects\ZombieGame\ZombieGameContent\ZombieGameContentContent\obj\PSM\ZombieGameContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\GP\ZombieGame (version 02)\ZombieGameContent\ZombieGameContentContent\obj\PSM\ZombieGameContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\GP\ZombieGame (version 04)\ZombieGameContent\ZombieGameContentContent\obj\PSM\ZombieGameContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Uni work\(2) Second Year\Games Programming\ZombieGame\ZombieGameContent\ZombieGameContentContent\obj\PSM\ZombieGameContentContent.contentprojResolveAssemblyReference.cache
