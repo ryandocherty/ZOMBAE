@@ -1,4 +1,4 @@
 # ZombieGame
 Uncompleted Zombie Game
-
-A game I worked on for my second year project. It really isn't finished. 
+Created in Monogame/XNA using C# 
+A game I worked on for one of my second year projects. It really isn't finished. 
