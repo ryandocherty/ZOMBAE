@@ -12,7 +12,7 @@ The objective of the game is to survive for 60 seconds while shooting down enemi
 
 - **Buttons**: In the first game state, there is an interactive button that can be pressed to open up the playing game state.
 - **Collision Detection**: For collision detection I've used bounding boxes around four of the sprites. Collisions are detected when a bullet hits an enemy and when an enemy touches the player.
-- **Player Control**: Move the sprite using the `W`, `A`, `S`, and `D` keys.
+- **Player Control**: Move the sprite using the `W`, `A`, `S`, and `D` keys, and the mouse to point and shoot.
 - **Sprite Animations**: Using a sprite sheet, the sprite has different animations using a depending on the direction it's facing (up, down, left, right).
 - **Enemy Types**: 
   - Three different types of enemies that spawn from the corners of the screen.
